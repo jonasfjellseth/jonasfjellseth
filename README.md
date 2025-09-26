@@ -40,5 +40,3 @@ Jeg studerer cybersikkerhet ved Høyskolen Kristiania og jobber med penetration 
 - LinkedIn: https://www.linkedin.com/jonasfjellseth
 
 ---
-
----
