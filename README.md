@@ -26,7 +26,7 @@ Jeg studerer cybersikkerhet ved Høyskolen Kristiania og jobber med penetration 
 
 ---
 
-## 🚀 Prosjekter (utvalgte)
+## 🚀 Prosjekter
 - [ntlm-cracking-lab](https://github.com/jonasfjellseth/ntlm-cracking-lab) — Lab for NTLM-hash utvinning og cracking.  
 - [beef-xss-lab](https://github.com/jonasfjellseth/beef-xss-lab) — Lab for bruk av verktøyet BeEF ved XSS.  
 - [eternalblue-privesc-trace2pcap](https://github.com/jonasfjellseth/eternalblue-privesc-trace2pcap) - Lab for exploiting av eternalblue sårbarheten med privesc.
