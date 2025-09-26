@@ -1,5 +1,5 @@
 <!-- Topp -->
-# 👋 Hei, jeg er Jonas
+# 👋 Hei, jeg heter Jonas
 **Cybersecurity student • Pentester • DevSecOps-interessert**
 
 ---
